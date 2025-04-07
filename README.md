@@ -1,7 +1,7 @@
 # Node.js Demo App 🚀
 
 ## 📌 What is this project?
-This is a simple Node.js Express app that prints "Hello from Yunus" on the homepage.
+This is a simple Node.js Express app that prints "Hello from Yunus Sharif" on the homepage.
 
 ## ⚙️ CI/CD Configuration
 CI/CD is configured using **GitHub Actions**. On every push to the `main` branch:
