@@ -22,7 +22,7 @@ DockerHub credentials are stored as GitHub Secrets:
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/Yunus705/nodejs-demo-app.git
 cd nodejs-demo-app
 
 # Install dependencies
